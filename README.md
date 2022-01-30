@@ -10,5 +10,5 @@ git add . <br/>
 git commit -m "first commit" <br/>
 git push origin main <br/>
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3701afbe3191ae18ab24)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/40bf7e7e196c883870cb?action=collection%2Fimport#?env%5BHW0%5D=W10=)
 # CSC3916_HW0-
